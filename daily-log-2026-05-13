@@ -1,0 +1,63 @@
+# Daily Work Log
+
+## Date
+13/05/2026
+
+---
+
+## What I Did
+
+- Solved 2 problems in LeetCode
+- Practiced Aptitude topic: Statement and Assumption
+- Solved problems based on Statement and Assumption
+- Learned basic concepts of DSA - Stack
+- Learned Form Validation using PHP and JavaScript
+- Learned about Time Complexity
+- Added my Portfolio link to my Resume
+
+---
+
+## What I Learned
+
+### Aptitude
+- How to identify assumptions in logical statements
+- Difference between statement and assumption questions
+
+### DSA
+- Basics of Stack data structure
+- Push and Pop operations
+
+### Web Development
+- Form validation in PHP and JavaScript
+- Validating email, password, phone number, and empty fields
+
+### Programming Concepts
+- Basics of Time Complexity
+- Understanding O(1), O(n), and O(log n)
+
+---
+
+## Problems I Faced
+
+- Confused while solving some Statement and Assumption questions
+- Faced difficulty understanding some hard LeetCode logic
+- Small syntax mistakes during coding
+- Confused in applying Time Complexity for some programs
+- Validation conditions were not working properly at first in PHP and JavaScript
+
+---
+
+## What I Revised
+
+- Stack concepts
+- Form validation syntax
+- Time complexity basics
+
+---
+
+## Plan for Tomorrow
+
+- Solve 2 LeetCode problems
+- Learn MySQL basics
+- Study Triggers and Cursors in MySQL
+- Practice more SQL queries
